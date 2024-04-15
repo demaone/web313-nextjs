@@ -11,6 +11,7 @@ export default function Home() {
         <link rel="icon" href="/favicon.ico" />
       </Head>
       <main>
+        <h1>Hello,Sergey!</h1>
         <Image src='/next.svg' width={200} height={300} alt=' ' />
       </main>
     </>
